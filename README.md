@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Jade;Founder+%26+CEO+of+Flowaris;Building+AI+Workflows;Automation+Developer" />
 </p>
----
 
 ## 🧠 About Me
 
