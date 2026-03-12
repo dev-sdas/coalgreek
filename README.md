@@ -1,74 +1,94 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Jade;Founder+%26+CEO+of+Flowaris;Building+AI+Workflows;Automation+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jade;Founder+%26+CEO+of+Flowaris;AI+Automation+Developer;Building+SaaS+%26+Developer+Tools" />
 </p>
-
-## 🧠 About Me
-
-- 🔭 Currently building **Flowaris**
-- ⚡ Interested in **AI automation, SaaS products, and startup ecosystems**
-- 💻 I build **bots, APIs, and workflow automation systems**
-- 🌍 Based in India
-- 📫 Reach me: inbox@devjade.xyz
 
 ---
 
-## 🚀 What I'm Working On
+# 🚀 Jade
 
-- 🤖 Automation systems  
-- 🧠 AI workflow platforms  
-- 🛠 Developer tools & integrations  
-- 📊 SaaS products for startups  
+**Founder & CEO — Flowaris**
+
+Building **AI workflows, automation systems, developer tools, and scalable SaaS products.**
+
+---
+
+## 🧠 About Me
+
+```yaml
+name: Jade
+username: dev-sdas
+role: Founder & CEO
+company: Flowaris
+focus: AI workflows, automation, SaaS
+location: India
+```
+
+- ⚡ Building **automation tools & developer systems**
+- 🤖 Creating **bots, APIs, and workflow automation**
+- 🧠 Exploring **AI + SaaS platforms**
+- 🚀 Turning ideas into **scalable products**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+<img src="https://skillicons.dev/icons?i=python,nodejs,js,go,rust,mongodb,docker,git,linux,github,vscode" />
 
-**Tools**
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sdas&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sdas&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=dev-sdas&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sdas&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dev-sdas&theme=tokyonight)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=dev-sdas&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-sdas&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sdas&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🐦 X / Twitter: https://x.com/yourprofile  
-- 🌐 Website: https://flowaris.com  
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dev-sdas/dev-sdas/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 ---
 
-## 👀 Profile Views
+## 🌐 Connect
 
-![Profile views](https://komarev.com/ghpvc/?username=dev-sdas&color=blue)
+- 💼 LinkedIn: https://linkedin.com
+- 🌐 Website: https://flowaris.com
+- 🐦 X: https://x.com
+
+---
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=dev-sdas&label=Profile%20views&color=0e75b6&style=flat" />
 
 ---
 
