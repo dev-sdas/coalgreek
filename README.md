@@ -43,21 +43,21 @@ Building automation tools, AI workflows, and scalable SaaS products.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sdas&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sdas&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dev-sdas&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-sdas&theme=tokyo-night)
 
 ---
 
@@ -71,7 +71,7 @@ Building automation tools, AI workflows, and scalable SaaS products.
 
 ## 👀 Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=dev-sdas&color=blue)
 
 ---
 
