@@ -8,7 +8,7 @@
 - ⚡ Interested in **AI automation, SaaS products, and startup ecosystems**
 - 💻 I build **bots, APIs, and workflow automation systems**
 - 🌍 Based in India
-- 📫 Reach me: your@email.com
+- 📫 Reach me: inbox@devjade.xyz
 
 ---
 
