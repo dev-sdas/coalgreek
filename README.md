@@ -1,52 +1,78 @@
-# 👾 Welcome to the Cyber Matrix of coalgreeek 👾
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jade
 
-```
-01001000 01100101 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100
-```
-
-Enter a realm where code is art, creativity meets hacking, and innovation is the only constant. I’m coalgreeek: a digital architect, a code alchemist, and a passionate explorer of the cyber frontier.
-
-## Who Am I?
-
-- 🔍 **Digital Explorer:** Navigating the depths of code, data streams, and the ever-expanding universe of tech.
-- 💡 **Hacker Spirit:** Thriving on challenges, uncovering vulnerabilities—not to exploit, but to strengthen and innovate.
-- 🎨 **Creative Coder:** Fusing code and creativity to sculpt unique, transformative digital experiences.
-- 🛠 **Tech Alchemist:** Merging the precision of engineering with the spontaneity of art to create next-level projects.
-
-## Tools of the Trade
-
-- **Languages:** JavaScript, TypeScript, Python, Rust, Go, and even a touch of Assembly.
-- **Frameworks & Libraries:** React, Node.js, Express, Next.js, with experimental ventures into emerging ecosystems.
-- **Hacker’s Arsenal:** CLI mastery with VIM, deep terminal dives, and an ethos of perpetual exploration.
-- **Digital Artistry:** ASCII art, data visualization, and blending algorithmic precision with creative expression.
-
-## Projects & Exploits
-
-### Cyber Creations
-- **Digital Nexus:** A pioneering framework that fuses artificial intelligence with creative coding, designed to revolutionize cloud deployments.
-- **Hacktivate:** A sandbox offering a safe environment to simulate advanced cybersecurity scenarios and challenge the norm.
-- **Code & Canvas:** An interactive gallery where every algorithm is a brushstroke on a digital canvas.
-  
-Explore my projects on GitHub to witness the evolution of code into art: [Repositories](https://github.com/coalgreeek?tab=repositories)
-
-## GitHub Hacker Metrics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coalgreeek&show_icons=true&theme=dracula)](https://github.com/coalgreeek)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coalgreeek&layout=compact&theme=dracula)](https://github.com/coalgreeek)
-
-## My Cyber Journal
-
-Delve into my blog for deep dives on:
-- [Cybernetic Alchemy: Transforming Code into Art](https://blog.example.com/cybernetic-alchemy)
-- [The Hacker's Manifesto: Rethinking Security and Innovation](https://blog.example.com/hackers-manifesto)
-- [Quantum Leaps in Code: Embracing the Future of Programming](https://blog.example.com/quantum-leaps)
-
-## Connect in the Matrix
-
-Whether you’re a fellow hacktivist, a creative coder, or simply curious about the cyber realm, let’s collaborate and break the mold:
-- 💬 **Discussions & Collaborations:** [GitHub Issues](https://github.com/coalgreeek/coalgreeek/issues)
-- 📡 **Digital Correspondence:** Reach out on my social platforms to exchange revolutionary ideas.
+🚀 **Founder & CEO of Flowaris**  
+Building automation tools, AI workflows, and scalable SaaS products.
 
 ---
 
-*Reboot your perspective. Override the mundane. Code with passion, innovate with purpose, and always question the norm. Welcome to my digital dominion!*
+## 🧠 About Me
+
+- 🔭 Currently building **Flowaris**
+- ⚡ Interested in **AI automation, SaaS products, and startup ecosystems**
+- 💻 I build **bots, APIs, and workflow automation systems**
+- 🌍 Based in India
+- 📫 Reach me: your@email.com
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Automation systems  
+- 🧠 AI workflow platforms  
+- 🛠 Developer tools & integrations  
+- 📊 SaaS products for startups  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+
+**Tools**
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🐦 X / Twitter: https://x.com/yourprofile  
+- 🌐 Website: https://flowaris.com  
+
+---
+
+## 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+---
+
+⭐ *Building systems that automate work and empower founders.*
