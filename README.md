@@ -1,11 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Jade;Founder+%26+CEO+of+Flowaris;Building+AI+Workflows;Automation+Developer" />
 </p>
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jade
-
-🚀 **Founder & CEO of Flowaris**  
-Building automation tools, AI workflows, and scalable SaaS products.
-
 ---
 
 ## 🧠 About Me
